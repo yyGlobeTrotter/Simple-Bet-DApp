@@ -1,4 +1,4 @@
-# ConsenSys Blockchain Developer Bootcamp Final Project -- Simple Bet DApp v0.1
+# ConsenSys Blockchain Developer Bootcamp Final Project -- My Simple Bet DApp v0.1
 ***
 
 ![Simple Bet DApp Temp Logo](/client/src/SimpleBet_Logo.png "Simple Bet DApp Temp Logo")
@@ -6,7 +6,7 @@
 ## DApp Walkthrough DEMO
 
 A screen recording demo walking-through of this DApp can be found here:
-[Yue's Simple Bet DApp v0.1] (https://youtu.be/eze9cSu1xwQ)
+[My Simple Bet DApp v0.1] (TBA)
 
 ## Project Description
 
