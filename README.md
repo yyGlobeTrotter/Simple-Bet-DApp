@@ -1,4 +1,4 @@
-# ConsenSys Blockchain Developer Bootcamp Final Project -- Yue's Simple Bet DApp v0.1
+# ConsenSys Blockchain Developer Bootcamp Final Project -- Simple Bet DApp v0.1
 ***
 
 ![Simple Bet DApp Temp Logo](/client/src/SimpleBet_Logo.png "Simple Bet DApp Temp Logo")
